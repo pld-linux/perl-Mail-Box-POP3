@@ -4,7 +4,6 @@
 #
 %define		pdir	Mail
 %define		pnam	Box-POP3
-%include	/usr/lib/rpm/macros.perl
 Summary:	Mail::Box::POP3 - handle POP3 folders as client
 #Summary(pl.UTF-8):
 Name:		perl-Mail-Box-POP3
